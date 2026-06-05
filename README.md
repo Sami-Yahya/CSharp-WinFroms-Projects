@@ -1,4 +1,4 @@
-# CSharp-WinForms-Projects
+# 💥 CSharp-WinForms-Projects
 
 Multiple **Windows Forms** applications built using **C#** for learning and practice as part of learning journey. 
 
