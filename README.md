@@ -17,4 +17,4 @@ Multiple **Windows Forms** applications built using **C#** for learning and prac
 | 🎂 Age Calculator    | Calculates age from a birth date and displays detailed age statistics and exact age.                        |
 
 
-###  💡 For more details, see each project's README file..
+###  💡 For more details, see each project's README file.
