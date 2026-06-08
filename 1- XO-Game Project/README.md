@@ -77,5 +77,5 @@ This project was created to practice:
 
 ## 🎥 Demo Video
 
-A demonstration video of the project is available on LinkedIn.
+A demonstration video of the project is available on LinkedIn: [View post](https://www.linkedin.com/posts/sami-yahya_programming-csharp-windowsforms-activity-7469342402701508608-Eaze?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF-2Zs4BGwYO_o-PgB_jvED7e8bNeuGeNSU)
 
