@@ -65,5 +65,5 @@ This project was created to practice:
 
 ## 📸 Video
 
-*Add a screenshot of the application here.*
+A demonstration video of the project is available on LinkedIn: [View post](https://www.linkedin.com/posts/sami-yahya_programming-csharp-windowsforms-activity-7468980013879607296-_GM6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF-2Zs4BGwYO_o-PgB_jvED7e8bNeuGeNSU)
 
